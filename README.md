@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi there!
+
+I am a machine learning, mathematics and art enthusiast. Starting from early 1995 and BASIC, I've weaved my life with programming.
+
+Best regards,
+Behrooz Vedadian
 
 <!--
 **vedadian/vedadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
