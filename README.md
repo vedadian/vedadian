@@ -2,7 +2,7 @@ Hi there!
 
 I am a machine learning, mathematics and art enthusiast. Starting from early 1995 and BASIC, I've weaved my life with programming.
 
-Best regards,
+Best regards,<br/>
 Behrooz Vedadian
 
 <!--
